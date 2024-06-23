@@ -1,0 +1,7 @@
+header {background-color: pink; padding: 2%;}
+@media screen and (min-width: 750px) {
+  .img-circle {width: 750px; margin-left: auto; margin-right: auto; }
+}
+.navbar {font-family: "Leckerli One"; font-size: 30px;}
+.active {background-color: lightslategray;}
+h2, h3 {margin: 20px; color: mediumvioletred; font-family: "Georgia";}
